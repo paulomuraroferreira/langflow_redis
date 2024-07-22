@@ -4,7 +4,7 @@ The repository implements chat memory for a RAG pipeline using Redis, so that pa
 
 ![image.png](README_files/redis001.png)
 
-This is done by creating the custom component ragas_custom_component.json.
+This is done by creating the custom components "Redis message retrieval custom component.json" and "Redis message retrieval custom component.json".
 
 The code for the custom components can be found on the Langflow GUI:
 
@@ -204,7 +204,7 @@ Clone the repository
 git clone https://github.com/paulomuraroferreira/langflow_redis.git
 ```
 
-Install langflow and ragas:
+Install langflow and redis:
 
 
 ```python
@@ -219,7 +219,7 @@ On the terminal, execute
 langflow run
 ```
 
-Upload the json RAG pipeline RAGAS metrics.json
+Upload the json 'RAG pipeline with Redis chat memory.json'
 
 ![image9.png](README_files/langflow_upload.png)
 
