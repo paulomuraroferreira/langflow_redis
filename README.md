@@ -219,7 +219,7 @@ On the terminal, execute
 langflow run
 ```
 
-Upload the json 'RAG pipeline with Redis chat memory.json'
+Upload the json 'RAG_pipeline_with_Redis_chat_memory.json'
 
 ![image9.png](README_files/langflow_upload.png)
 
